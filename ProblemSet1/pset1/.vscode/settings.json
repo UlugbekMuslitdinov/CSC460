@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 1000,
+      "driver": "SQLite",
+      "name": "mbta",
+      "database": "${workspaceFolder:pset1}/mbta.sqlite"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
